@@ -23,5 +23,9 @@ vjっぽい遊びができる奴です。
 ### Zoom(G key)
 <img src="https://raw.githubusercontent.com/uma0317/gradation/image/gifs/zoom2.gif" style="width:300px"/>  
 
+## Arduinoとの連携
 
+<img src="https://raw.githubusercontent.com/uma0317/gradation/image/gifs/%E3%83%96%E3%83%AC%E3%83%83%E3%83%89%E3%83%9C%E3%83%BC%E3%83%89.png" style="width:300px"/>  
 
+もしブレッドボードを持っていたら上記の画像のように組み立ててください。  
+可変抵抗器を回すとエフェクトの強弱が変わります。より楽しい！

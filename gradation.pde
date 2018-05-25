@@ -44,7 +44,7 @@ void setup() {
   minim = new Minim(this);  //初期化
   player = minim.loadFile("bgm.mp3"); //mp3ファイルを指定する 
 
-  //create Serial
+  //create Serial. if you have arduino please uncomment under the three lines below.
   //serial = new Serial(this, Serial.list()[2], baudRate);
   //serial.clear();
   //serial.bufferUntil('\n');s
