@@ -9,17 +9,19 @@ vjっぽい遊びができる奴です。
 
 ## エフェクトの種類
 ### ColorShift (A key)
-<img src="https://i.imgur.com/9P2vdWX.gif" style="width:300px"/>  
+<img src="./gifs/colorShift.gif" style="width:300px"/>  
 
 ### PixelSort (S Key)
-<img src="https://i.imgur.com/4m4vpxG.gif" style="width:300px"/>  
+<img src="./gifs/pixelSort.gif" style="width:300px"/>  
 
 ### Noise (D Key)
-<img src="https://i.imgur.com/3m87noL.gif" style="width:300px"/>  
+<img src="./gifs/noise.gif" style="width:300px"/>  
 
 ### Noise2(F Key)
+<img src="./gifs/noise2.gif" style="width:300px"/>  
 
 ### Zoom(G key)
-対称フォルダをテンプレートとして保存します。  
-第1引数にファイルパスと第二引数にテンプレート名を受け取ります。ファイルパスは絶対パス、相対パス、"."でカレントディレクトリを対象にします。  
-テンプレート名を省略すると対称フォルダの名前になります。
+<img src="./gifs/zoom2.gif" style="width:300px"/>  
+
+
+
