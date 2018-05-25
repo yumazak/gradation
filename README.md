@@ -9,19 +9,19 @@ vjっぽい遊びができる奴です。
 
 ## エフェクトの種類
 ### ColorShift (A key)
-<img src="https://github.com/uma0317/gradation/tree/image/gifs/colorShift.gif" style="width:300px"/>  
+<img src="https://raw.githubusercontent.com/uma0317/gradation/image/gifs/colorShift.gif" style="width:300px"/>  
 
 ### PixelSort (S Key)
-<img src="https://github.com/uma0317/gradation/tree/image/gifs/pixelSort.gif" style="width:300px"/>  
+<img src="https://raw.githubusercontent.com/uma0317/gradation/image/gifs/pixelSort.gif" style="width:300px"/>  
 
 ### Noise (D Key)
-<img src="https://github.com/uma0317/gradation/tree/image/gifs/noise.gif" style="width:300px"/>  
+<img src="https://raw.githubusercontent.com/uma0317/gradation/image/gifs/noise.gif" style="width:300px"/>  
 
 ### Noise2(F Key)
-<img src="https://github.com/uma0317/gradation/tree/image/gifs/noise2.gif" style="width:300px"/>  
+<img src="https://raw.githubusercontent.com/uma0317/gradation/image/gifs/noise2.gif" style="width:300px"/>  
 
 ### Zoom(G key)
-<img src="https://github.com/uma0317/gradation/tree/image/gifs/zoom2.gif" style="width:300px"/>  
+<img src="https://raw.githubusercontent.com/uma0317/gradation/image/gifs/zoom2.gif" style="width:300px"/>  
 
 
 
